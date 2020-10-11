@@ -51,5 +51,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
     recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 AttributeError: module 'cv2.cv2' has no attribute 'face'
-
-> > >
